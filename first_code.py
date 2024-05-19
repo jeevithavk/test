@@ -7,4 +7,5 @@ This is a temporary script file.
 
 a = 1
 b = 2.5
-print(a+b)
+c = a+b
+print(c)
